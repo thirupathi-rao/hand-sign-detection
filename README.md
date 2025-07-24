@@ -15,64 +15,8 @@ This system uses a webcam and hand gestures to recognize letters of the alphabet
 3. Ensure the trained model file `randomforest_hands.plk` is in the project directory.
 4. Run the script using:
    python hand_gesture_predictor.py
-4. Gesture Reference Guide
-Below are the hand gestures corresponding to each alphabet and special command:
-Gesture: A
- 
-Gesture: B
- 
-Gesture: C
- 
-Gesture: D
- 
-Gesture: E
- 
-Gesture: F
- 
-Gesture: G
- 
-Gesture: H
- 
-Gesture: I
- 
-Gesture: J
- 
-Gesture: K
- 
-Gesture: L
- 
-Gesture: M
- 
-Gesture: N
- 
-Gesture: O
- 
-Gesture: P
- 
-Gesture: Q
- 
-Gesture: R
- 
-Gesture: S
- 
-Gesture: T
- 
-Gesture: U
- 
-Gesture: V
- 
-Gesture: W
- 
-Gesture: X
- 
-Gesture: Y
- 
-Gesture: Z
- 
-Gesture: Space
- 
-Gesture: Backspace
- 
+4. Gesture Reference Guide:
+   use the pdf for the sign guide 
 5. Tips for Better Accuracy
 - Keep your hand centered in front of the camera.
 - Avoid background clutter.
